@@ -1,0 +1,2 @@
+#Introduction to Git and Github
+This project is an introduction to the basics of Git and Github. It includes but not limited to creating directories, commiting files, pushing files, creating branches etc 
