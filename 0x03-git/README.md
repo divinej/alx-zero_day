@@ -1,0 +1,1 @@
+This is a directory inside the alx-zero_day repository
